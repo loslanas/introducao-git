@@ -10,4 +10,4 @@ git push origin main
 
 *agora estamos na branch nova
 
-git checkout -b nomedabranchnova
+git checkout -b nomedabranchnova ( -b para criar a branch)
